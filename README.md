@@ -1,4 +1,4 @@
-** remember you will be utilizing yarn workspaces inside of your theme space **
+**!! remember you will be utilizing yarn workspaces inside of your theme space**
 
 # Get started:
 
